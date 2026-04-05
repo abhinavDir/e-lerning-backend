@@ -1,0 +1,617 @@
+[
+  {
+    "id": "1775401044561",
+    "userId": "69d2513007836298fbc7141b",
+    "goal": "frontend",
+    "curriculum": [
+      {
+        "week": 1,
+        "focus": "Foundational FRONTEND",
+        "modules": [
+          {
+            "title": "HTML5 & Semantic Web",
+            "subtopics": [
+              "Semantics",
+              "Accessibility",
+              "Forms",
+              "SEO Basics"
+            ]
+          },
+          {
+            "title": "Modern CSS & Layouts",
+            "subtopics": [
+              "Flexbox",
+              "Grid",
+              "Media Queries",
+              "Animations"
+            ]
+          },
+          {
+            "title": "JavaScript Fundamentals",
+            "subtopics": [
+              "Variables",
+              "Functions",
+              "DOM",
+              "ES6 Syntax"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Master structural web design.",
+        "learningOutcome": "Verified proficiency in Foundational FRONTEND applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for HTML5 & Semantic Web",
+            "difficulty": "Beginner"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Beginner"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Beginner"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "focus": "Intermediate Architecture & APIs",
+        "modules": [
+          {
+            "title": "Advanced JavaScript",
+            "subtopics": [
+              "Promises",
+              "Closures",
+              "Event Loop",
+              "Fetch API"
+            ]
+          },
+          {
+            "title": "React Hooks & State",
+            "subtopics": [
+              "useState",
+              "useEffect",
+              "Context API",
+              "Custom Hooks"
+            ]
+          },
+          {
+            "title": "Frontend Routing",
+            "subtopics": [
+              "React Router",
+              "Dynamic Routes",
+              "Protected Routes",
+              "NavLinks"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Closures, async/await, and prototypes.",
+        "learningOutcome": "Verified proficiency in Intermediate Architecture & APIs applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for Advanced JavaScript",
+            "difficulty": "Intermediate"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Intermediate"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Intermediate"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "focus": "Advanced Performance & Scaling",
+        "modules": [
+          {
+            "title": "State Management",
+            "subtopics": [
+              "Redux Toolkit",
+              "Zustand",
+              "React Query",
+              "Thunks"
+            ]
+          },
+          {
+            "title": "Performance Optimization",
+            "subtopics": [
+              "Code Splitting",
+              "Lazy Loading",
+              "Tree Shaking",
+              "Memoization"
+            ]
+          },
+          {
+            "title": "Testing UIs",
+            "subtopics": [
+              "Jest",
+              "React Testing Library",
+              "Cypress",
+              "Mocking"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Managing complex application state.",
+        "learningOutcome": "Verified proficiency in Advanced Performance & Scaling applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for State Management",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Advanced"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "focus": "Enterprise Deployment & Security",
+        "modules": [
+          {
+            "title": "Next.js & SSR",
+            "subtopics": [
+              "Server Components",
+              "SSG",
+              "API Routes",
+              "App Router"
+            ]
+          },
+          {
+            "title": "Tailwind & Styled Components",
+            "subtopics": [
+              "Utility Classes",
+              "JIT Compiler",
+              "CSS-in-JS",
+              "Theming"
+            ]
+          },
+          {
+            "title": "Web Accessibility (a11y)",
+            "subtopics": [
+              "ARIA Roles",
+              "Keyboard Nav",
+              "Screen Readers",
+              "Color Contrast"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Server-side rendering and static sites.",
+        "learningOutcome": "Verified proficiency in Enterprise Deployment & Security applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for Next.js & SSR",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Advanced"
+          }
+        ]
+      }
+    ],
+    "status": "Active",
+    "createdAt": "2026-04-05T14:57:24.561Z"
+  },
+  {
+    "id": "1775407913343",
+    "userId": "69d2513007836298fbc7141b",
+    "goal": "Frontend",
+    "curriculum": [
+      {
+        "week": 1,
+        "focus": "Foundational FRONTEND",
+        "modules": [
+          {
+            "title": "HTML5 & Semantic Web",
+            "subtopics": [
+              "Semantic Markup: Using main, article, section, header, and footer correctly",
+              "Accessibility (a11y): Implementing ARIA roles and managing focus states",
+              "Advanced Forms: Client-side validation API and custom inputs",
+              "SEO Optimization: Meta tags, schema markup, and Core Web Vitals basics"
+            ]
+          },
+          {
+            "title": "Modern CSS Architecture",
+            "subtopics": [
+              "CSS Grid Layout: 2D layouts, grid areas, and implicit vs explicit grids",
+              "Flexbox Mastery: 1D layouts, alignment, and flex-grow properties",
+              "Responsive Design: Fluid typography, container queries, and media query breakpoints",
+              "CSS Custom Properties: Theming, math functions (calc), and variable scoping"
+            ]
+          },
+          {
+            "title": "JavaScript Fundamentals",
+            "subtopics": [
+              "Execution Context: Lexical scope, hoisting, and the variable environment",
+              "ES6+ Syntax: Destructuring, spread/rest operators, template literals, and optional chaining",
+              "DOM Manipulation: Querying elements, traversing nodes, and efficient DOM updates",
+              "Event Handling: Capturing, bubbling, event delegation, and custom events"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Master structural web design.",
+        "learningOutcome": "Verified proficiency in Foundational FRONTEND applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for HTML5 & Semantic Web",
+            "difficulty": "Beginner"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Beginner"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Beginner"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "focus": "Intermediate Architecture & APIs",
+        "modules": [
+          {
+            "title": "Advanced JavaScript",
+            "subtopics": [
+              "Asynchronous JS: The Event Loop, Microtask Queue, Promises, and async/await",
+              "Closures: Memory retention, IIFEs, and the module pattern",
+              "Prototypal Inheritance: The prototype chain, Object.create, and classes under the hood",
+              "Memory Management: Garbage collection algorithms and avoiding memory leaks"
+            ]
+          },
+          {
+            "title": "React Architecture",
+            "subtopics": [
+              "Virtual DOM: Reconciliation algorithm and Fiber architecture",
+              "Hooks API: Deep dive into useEffect lifecycles and custom hook composition",
+              "State Colocation: Lifting state up vs global context vs local state",
+              "Performance: React.memo, useMemo, useCallback, and managing re-renders"
+            ]
+          },
+          {
+            "title": "Routing & Navigation",
+            "subtopics": [
+              "React Router v6: Data routers, layout routes, and loaders/actions",
+              "Dynamic Routing: URL params, query strings, and path matching mechanics",
+              "Protected Routes: Auth wrappers, navigation guards, and redirect flows",
+              "Code Splitting: React.lazy, Suspense boundaries, and chunk optimization"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Closures, async/await, and prototypes.",
+        "learningOutcome": "Verified proficiency in Intermediate Architecture & APIs applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for Advanced JavaScript",
+            "difficulty": "Intermediate"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Intermediate"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Intermediate"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "focus": "Advanced Performance & Scaling",
+        "modules": [
+          {
+            "title": "Global State Management",
+            "subtopics": [
+              "Redux Toolkit: Slices, immer middleware, RTK Query, and async thunks",
+              "Zustand & Jotai: Atomic state architecture and unopinionated local storage sync",
+              "Server State vs Client State: Utilizing React Query for caching, deduping, and polling",
+              "Optimistic Updates: Handling mutations and rolling back UI states on error"
+            ]
+          },
+          {
+            "title": "Performance Optimization",
+            "subtopics": [
+              "Resource Hinting: Preconnect, prefetch, and preload tags",
+              "Image Optimization: WebP/AVIF formats, srcset, and async decoding optimizations",
+              "Bundle Analysis: Tree shaking, eliminating dead code, and externalizing dependencies",
+              "Web Workers: Offloading heavy computation from the main UI thread"
+            ]
+          },
+          {
+            "title": "Frontend Testing",
+            "subtopics": [
+              "Unit Testing: Jest configuration, mocking modules, and snapshot testing",
+              "Component Testing: React Testing Library, checking ARIA accessibility visually",
+              "E2E Testing: Cypress vs Playwright, network stubbing, and visual regression",
+              "Test Driven Development (TDD): Writing tests before component implementation"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Managing complex application state.",
+        "learningOutcome": "Verified proficiency in Advanced Performance & Scaling applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for Global State Management",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Advanced"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "focus": "Enterprise Deployment & Security",
+        "modules": [
+          {
+            "title": "Next.js 14 & SSR",
+            "subtopics": [
+              "App Router: Server Components, layouts, loading ui, and error boundaries",
+              "Rendering Strategies: SSG vs SSR vs ISR vs Client-Side rendering boundaries",
+              "Data Fetching: fetch API caching, revalidation tags, and Suspense streaming",
+              "API Routes: Serverless functions, edge runtime, and backend-for-frontend (BFF)"
+            ]
+          },
+          {
+            "title": "Styling Solutions",
+            "subtopics": [
+              "Tailwind CSS: Utility-first configurations, JIT compiler, and custom plugins",
+              "CSS-in-JS: Styled-components vs Emotion and their runtime implications",
+              "CSS Modules: Scoped hashing and local composition patterns",
+              "Design Systems: Designing reusable token libraries across standard variables"
+            ]
+          },
+          {
+            "title": "Build Tools & Tooling",
+            "subtopics": [
+              "Vite Internals: Native ESM processing, HMR (Hot Module Replacement) speed",
+              "Webpack: Loaders, plugins, tree-shaking, and minification strategies",
+              "Linting & Formatting: ESLint, Prettier, husky pre-commit hooks, and stylelint",
+              "CI/CD for UI: Automating lighthouse scores, unit tests, and CI/CD reviews"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Frontend. Server-side rendering and static sites.",
+        "learningOutcome": "Verified proficiency in Enterprise Deployment & Security applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for Next.js 14 & SSR",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Advanced"
+          }
+        ]
+      }
+    ],
+    "status": "Active",
+    "createdAt": "2026-04-05T16:51:53.343Z"
+  },
+  {
+    "id": "1775409082037",
+    "userId": "69d2513007836298fbc7141b",
+    "goal": "backend",
+    "curriculum": [
+      {
+        "week": 1,
+        "focus": "Foundational BACKEND",
+        "modules": [
+          {
+            "title": "Node.js Architecture",
+            "subtopics": [
+              "V8 Engine & Libuv: Understanding the single-threaded asynchronous nature",
+              "Event Loop: Timers, pending callbacks, poll, check, and close phases",
+              "Streams & Buffers: Memory-efficient data processing for large files",
+              "Child Processes: cluster, fork, exec, and spawn for CPU-intensive tasks"
+            ]
+          },
+          {
+            "title": "Express.js Intricacies",
+            "subtopics": [
+              "Middleware Chain: next() mechanics, error boundaries, and global handlers",
+              "Router Architectures: Modular monolith setup and scalable file structures",
+              "Validation: Joi/Zod integration for sanitizing deeply nested JSON payloads",
+              "Security Headers: Helmet.js, rate limiting, and CORS policies configuration"
+            ]
+          },
+          {
+            "title": "Relational Database Design",
+            "subtopics": [
+              "ACID Properties: Atomicity, Consistency, Isolation, and Durability guarantees",
+              "Normalization: 1NF to BCNF and identifying strict functional dependencies",
+              "Indexing: B-Trees, Hash indexes, composite indexes, and query plans",
+              "Joins & Subqueries: Inner, left, right full joins vs CTEs functionally"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Backend. Understanding the core architecture.",
+        "learningOutcome": "Verified proficiency in Foundational BACKEND applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for Node.js Architecture",
+            "difficulty": "Beginner"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Beginner"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Beginner"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "focus": "Intermediate Architecture & APIs",
+        "modules": [
+          {
+            "title": "MongoDB Data Modeling",
+            "subtopics": [
+              "Document Modeling: Embedding vs Referencing depending on relationship rules",
+              "Aggregation Pipeline: $match, $group, $lookup logic and data transformations",
+              "Replica Sets: High availability, read preferences, and write concern mechanisms",
+              "Mongoose Internals: Virtuals, pre/post save hooks, and schema discrimination"
+            ]
+          },
+          {
+            "title": "Modern Authentication",
+            "subtopics": [
+              "JWT Implementations: Algorithms, signing, verifying, and claims payloads setup",
+              "OAuth 2.0 & OIDC: Authorization code grants, implicit flows, and stateless auth",
+              "Tokens: Refresh token rotation, HTTP-only Secure Cookies vs LocalStorage",
+              "RBAC vs ABAC: Role-based policies vs Attribute-based fine-grained security rules"
+            ]
+          },
+          {
+            "title": "High-Performance Caching",
+            "subtopics": [
+              "Redis Data Types: Hashes, lists, sets, and lightning-fast geospatial indexing setups",
+              "Caching Strategies: Cache-aside, write-through, and write-behind cache implementations",
+              "Cache Invalidation: Stale-while-revalidate logic and optimal TTL calculations",
+              "Distributed Locking: Redis setnx and Redlock algorithm for concurrency problems"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Backend. NoSQL architecture.",
+        "learningOutcome": "Verified proficiency in Intermediate Architecture & APIs applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for MongoDB Data Modeling",
+            "difficulty": "Intermediate"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Intermediate"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Intermediate"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "focus": "Advanced Performance & Scaling",
+        "modules": [
+          {
+            "title": "Microservices & RPC",
+            "subtopics": [
+              "Service Discovery: Consul, Eureka, and API Gateway traffic integration limits",
+              "Communication: Synchronous gRPC/REST vs Asynchronous Messaging payloads",
+              "Strangler Fig Pattern: Incrementally refactoring monolithic apps down slowly",
+              "Saga Pattern: Choreography vs Orchestration for strict distributed transactions"
+            ]
+          },
+          {
+            "title": "Message Brokers",
+            "subtopics": [
+              "RabbitMQ: Exchanges (Direct, Topic, Fanout), bindings, and dedicated message queues",
+              "Apache Kafka: Distributed commit logs, topics, partitions, and clustered consumer groups",
+              "Eventual Consistency: Compensating actions and idempotency keys in queues payload logic",
+              "Dead Letter Exchanges: Handling unprocessable events gracefully and tracing event flows"
+            ]
+          },
+          {
+            "title": "GraphQL Implementations",
+            "subtopics": [
+              "Schema Definition Language (SDL): Types, interfaces, unions, and core custom scalars",
+              "Resolvers Architecture: Root levels, field levels, and managing deep contextual state",
+              "Data Fetching: Solving N+1 problem efficiently via DataLoader batching and bulk mapping",
+              "Mutations & Subscriptions: Establishing robust Real-time event streams via GraphQL WebSockets"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Backend. Splitting monolithic codebases.",
+        "learningOutcome": "Verified proficiency in Advanced Performance & Scaling applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for Microservices & RPC",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Advanced"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "focus": "Enterprise Deployment & Security",
+        "modules": [
+          {
+            "title": "WebSockets & Realtime",
+            "subtopics": [
+              "Protocol Mechanics: Upgrade headers, full-duplex communication TCP streams internally",
+              "Socket.io: Rooms, namespaces, broadcasting algorithms, and fallback polling mechanisms",
+              "Scaling Realtime: Redis adapters and pub/sub synchronizations across horizontal clusters",
+              "Heartbeats: Ping/pong intervals for intelligently detecting stale client connections early"
+            ]
+          },
+          {
+            "title": "Containerization & DevOps",
+            "subtopics": [
+              "Dockerizing Node: Multi-stage builds, alpine images, and npm cache node_modules mounting",
+              "Volumes & Networks: Bridge networks vs host modes, persistent data across restarts logic",
+              "Docker Compose: Orchestrating Databases, Redis, and APIs locally seamlessly together",
+              "CI/CD Pipelines: GitHub Actions linting, unit testing, building, and pushing docker images"
+            ]
+          },
+          {
+            "title": "Serverless Functions",
+            "subtopics": [
+              "AWS Lambda: Execution contexts, handling CPU cold-starts, handler payload signatures",
+              "API Gateway: Mapping integration HTTP responses, VTL templates, and custom authorizers",
+              "DynamoDB: Single-table design strategy, partition keys, sort properties, secondary indexes",
+              "Serverless Framework: Standardizing infrastructure as code (IaC) packaging easily"
+            ]
+          }
+        ],
+        "weeklyProject": "Capstone Project: Build a real-world module exploring Backend. Persistent state connections.",
+        "learningOutcome": "Verified proficiency in Enterprise Deployment & Security applications",
+        "tasks": [
+          {
+            "title": "Read Documentation for WebSockets & Realtime",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Complete hands-on lab exercise",
+            "difficulty": "Advanced"
+          },
+          {
+            "title": "Submit code for peer review",
+            "difficulty": "Advanced"
+          }
+        ]
+      }
+    ],
+    "status": "Active",
+    "createdAt": "2026-04-05T17:11:22.037Z"
+  }
+]
