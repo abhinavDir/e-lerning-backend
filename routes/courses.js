@@ -10,12 +10,13 @@ const {
 } = require('../controllers/courseController');
 const { auth, authorize } = require('../middleware/auth');
 
-router.get('/', getAllCourses);
-router.get('/:id', getCourseById);
-
 // Protected routes
 router.post('/create', auth, authorize('instructor', 'admin'), createCourse);
 router.get('/instructor/me', auth, authorize('instructor', 'admin'), getInstructorCourses);
+
+router.get('/', getAllCourses);
+router.get('/:id', getCourseById);
+
 router.put('/:id', auth, authorize('instructor', 'admin'), updateCourse);
 router.delete('/:id', auth, authorize('instructor', 'admin'), deleteCourse);
 

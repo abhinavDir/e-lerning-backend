@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "69d2087553577ad26de25fee",
+    "title": "Apache",
+    "description": "this is the demo course ",
+    "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "instructor": "69d2063b53577ad26de2565b",
+    "category": "Development",
+    "price": 19,
+    "sections": [
+      {
+        "title": "Lecture 1 ",
+        "lectures": [
+          {
+            "title": "Demo",
+            "videoUrl": "https://www.youtube.com/live/3QUqHiLUvFY?si=bkNdemew2s860S_l",
+            "duration": "1 hours",
+            "order": 0,
+            "_id": "69d2087553577ad26de25ff0"
+          }
+        ],
+        "order": 0,
+        "_id": "69d2087553577ad26de25fef"
+      }
+    ],
+    "enrolledStudentsCount": 2,
+    "rating": 0,
+    "reviewsCount": 0,
+    "createdAt": "2026-04-05T07:00:05.697Z",
+    "__v": 1,
+    "level": "Beginner",
+    "outcomes": [],
+    "quizUrl": "",
+    "totalDuration": "10+ Hours"
+  },
+  {
+    "_id": "69d20b11f42abd6a1143404a",
+    "title": "Todo app",
+    "description": "I buiild the todo list ",
+    "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "instructor": "69d2063b53577ad26de2565b",
+    "category": "Development",
+    "price": 4,
+    "sections": [
+      {
+        "title": "Introduction ",
+        "lectures": [
+          {
+            "title": "Introduction",
+            "videoUrl": "\"C:\\Users\\Abhinav Pandey\\OneDrive\\Pictures\\Camera Roll\\WIN_20241108_12_36_33_Pro.mp4\"",
+            "duration": "30 min",
+            "order": 0,
+            "_id": "69d20b11f42abd6a1143404c"
+          }
+        ],
+        "order": 0,
+        "_id": "69d20b11f42abd6a1143404b"
+      }
+    ],
+    "enrolledStudentsCount": 1,
+    "rating": 0,
+    "reviewsCount": 0,
+    "createdAt": "2026-04-05T07:11:13.977Z",
+    "__v": 1,
+    "level": "Beginner",
+    "outcomes": [],
+    "totalDuration": "10+ Hours",
+    "quizUrl": ""
+  },
+  {
+    "_id": "69d2425b5e08d90a3c381820",
+    "title": "javascript",
+    "description": "this is the beginner level course",
+    "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "instructor": "69d2415b5e08d90a3c381812",
+    "category": "Development",
+    "price": 23,
+    "outcomes": [],
+    "level": "Beginner",
+    "totalDuration": "10+ Hours",
+    "enrolledStudentsCount": 1,
+    "rating": 0,
+    "reviewsCount": 0,
+    "quizUrl": "",
+    "createdAt": "2026-04-05T11:07:07.689Z",
+    "updatedAt": "2026-04-05T11:07:31.572Z",
+    "__v": 0,
+    "sections": []
+  },
+  {
+    "_id": "69d2468ab4f49b154ad24c0d",
+    "title": "data analytics",
+    "description": "this is the first video ever seen",
+    "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "instructor": "69d2452a91818471a8abbcfe",
+    "category": "Development",
+    "price": 100,
+    "outcomes": [
+      "lerner"
+    ],
+    "sections": [
+      {
+        "title": "lecture 1",
+        "lectures": [
+          {
+            "title": "demo song",
+            "description": "",
+            "videoUrl": "https://res.cloudinary.com/dy5qxspxz/video/upload/v1775413419/edstack/videos/video-1775413412763.mp4",
+            "duration": "3min",
+            "order": 0,
+            "_id": "69d2475983d59286c11a5278"
+          }
+        ],
+        "order": 0,
+        "_id": "69d2468ab4f49b154ad24c0e"
+      }
+    ],
+    "level": "Beginner",
+    "totalDuration": "10+ Hours",
+    "enrolledStudentsCount": 3,
+    "rating": 0,
+    "reviewsCount": 0,
+    "quizUrl": "",
+    "createdAt": "2026-04-05T11:24:58.833Z",
+    "updatedAt": "2026-04-05T18:29:31.815Z",
+    "__v": 7
+  }
+]
